@@ -4,11 +4,11 @@ A visually stunning and user-friendly travel website built with a focus on excep
 
 ### Key Features:
 
-Elegant and modern design with smooth animations
-Responsive layout for mobile and desktop
-Interactive maps and destination filters
-Trip planning tools and destination guides
-Fast and optimized for smooth user experience
+Elegant and modern design with smooth animations.  
+Responsive layout for mobile and desktop.  
+Interactive maps and destination filters.  
+Trip planning tools and destination guides.  
+Fast and optimized for smooth user experience.  
 Built using HTML, CSS, JavaScript, and modern frontend frameworks.
 
 
